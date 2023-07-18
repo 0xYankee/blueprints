@@ -4,13 +4,19 @@ initial proposals to kickstart project development. This will
 help the team to align on objectives, requirements and ideate on 
 the feasibility and direction of the company.
 
-### How to write Blueprint
+### Who gets to write a Blueprint
+Everyone can write a Blueprint and will be the main driving 
+stakeholder of the proposal such as ensuring the team is on 
+the same page, tracking of iterations and reiterations on the 
+plans.
+
+### How to write a Blueprint
 Below in a Blueprint template with necessary guidelines to help 
 ideate on initial problem-solution context, benefits-drawbacks, 
 a dedicated team review section and finally the implementation 
 details across the respective team.
 
-### Where to write Blueprint
+### Where to write a Blueprint
 Blueprints are to be written as issues in this repository and 
 team discussion can be indicated within each issue.
 
