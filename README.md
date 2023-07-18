@@ -10,6 +10,10 @@ ideate on initial problem-solution context, benefits-drawbacks,
 a dedicated team review section and finally the implementation 
 details across the respective team.
 
+# Where to write Blueprint
+Blueprints are to be written as issues in this repository and 
+team discussion can be indicated within each issue.
+
 # Blueprint Template
 
 ## Main Objective
