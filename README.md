@@ -49,25 +49,29 @@ to plan out the necessary engineering, product and business details
 with the respective team.
 
 ## Technical Design
-To be completed
+-
 
-## Interface Designs
-To be completed
+## Interface Design
+-
 
 ## Architecture Diagram(s)
-To be completed
+-
 
 ## SDKs
-To be completed
+-
 
 ## Alternatives Considered
-To be completed
+-
 
 ## Related Work
-To be completed
+Indicate all work related to proposal and relevant teams appointed 
+to complete. This section will be transferred into a Project and 
+Milestone for further planning such as reiterations and project 
+management.
 
 ## Estimated Timeline
-To be completed
+Indicate a reasonable timeline based on the milestones and items 
+mentioned above.
 
 ## Go-To-Market Plan
-To be completed
+-
